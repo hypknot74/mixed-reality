@@ -6,9 +6,9 @@ Display animals depending on the landscape.
 2. Set the onnx file on Unity and use the application.
 
 ## Slides
-![slides/slide1.png](application description)  
-![slides/slide2.png](concept)  
-![slides/slide3.png](examples)  
-![slides/slide4.png](dataset)  
-![slides/slide5.png](dataset example)  
-![slides/slide6.png](ai model)  
+![application description](slides/slide1.png)  
+![concept](slides/slide2.png)  
+![examples](slides/slide3.png)  
+![dataset](slides/slide4.png)  
+![dataset example](slides/slide5.png)  
+![ai model](slides/slide6.png)  
